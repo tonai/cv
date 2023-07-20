@@ -18,11 +18,19 @@
       "technologies": ["React", "Redux", "Next"]
     },
     {
+      "title": "Outil générateur des supports de formation",
+      "end": "06/2022",
+      "start": "01/2022",
+      "project": "Développement d'un nouvel outil pour générer les supports de formation interne",
+      "role": "Expert et developpeur",
+      "technologies": ["Vue.js", "Slidev", "CI"]
+    },
+    {
       "title": "Portail client interne",
       "end": "11/2021",
       "start": "10/2021",
       "project": "Développement d'un portail pour les clients Smile",
-      "role": "Expert et developer",
+      "role": "Expert et developpeur",
       "technologies": ["React"]
     },
     {
