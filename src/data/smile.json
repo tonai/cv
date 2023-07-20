@@ -2,8 +2,41 @@
   "title": "Smile",
   "projects": [
     {
+      "title": "React Modular Front Kit",
+      "end": "07/2023",
+      "start": "06/2023",
+      "project": "Développement d'un librairie de comopsant réutilisable",
+      "role": "Expert et tech lead frontend",
+      "technologies": ["React"]
+    },
+    {
+      "title": "Gally",
+      "end": "01/2023",
+      "start": "06/2022",
+      "project": "Développement d'un Back-Office pour l'outil Elastic-suite Gally",
+      "role": "Expert et tech lead frontend",
+      "technologies": ["React", "Redux", "Next"]
+    },
+    {
+      "title": "Portail client interne",
+      "end": "11/2021",
+      "start": "10/2021",
+      "project": "Développement d'un portail pour les clients Smile",
+      "role": "Expert et developer",
+      "technologies": ["React"]
+    },
+    {
+      "title": "Industry 4.0",
+      "end": "10/2021",
+      "start": "09/2021",
+      "project": "Développement d'une application de réalité mixe sous Unity",
+      "role": "Expert et developer",
+      "technologies": ["Unity", "Magic Leap", "Mixed Reality"]
+    },
+    {
       "title": "Sixense",
-      "end": "now",
+      "end": "09/2021",
+      "start": "02/2020",
       "project": "Développement de la plateforme Beyond Monitoring",
       "role": "Expert et tech lead frontend",
       "technologies": ["Angular", "Open Layers", "NestJS"]
@@ -11,22 +44,25 @@
     {
       "title": "Vinci Immobilier",
       "end": "02/2020",
+      "start": "10/2019",
       "project": "Refonte du site Vinci Immobilier",
       "url": "https://www.vinci–immobilier.com/",
       "role": "Expert et tech lead frontend",
-      "technologies": ["React", "Redux", "Drupal 8"]
+      "technologies": ["React", "Redux", "Next", "Drupal 8"]
     },
     {
       "title": "Vinci Immobilier",
       "end": "10/2019",
+      "start": "07/2019",
       "project": "Refonte du site Vinci Immobilier Patrimoine",
       "url": "https://www.vinci-immobilier-patrimoine.com/",
       "role": "Expert et tech lead frontend",
-      "technologies": ["React", "Drupal 8"]
+      "technologies": ["React", "Next", "Drupal 8"]
     },
     {
       "title": "Safran",
       "end": "07/2019",
+      "start": "05/2018",
       "project": "Réalisation d'interfaces graphiques pour les projets FSPM et SICS",
       "role": "Expert et tech lead frontend",
       "technologies": ["React", "Redux"]
@@ -34,6 +70,7 @@
     {
       "title": "HEC",
       "end": "05/2018",
+      "start": "01/2018",
       "project": "Refonte du site HEC",
       "url": "https://www.hec.edu/",
       "role": "Expert et tech lead frontend",
@@ -42,6 +79,7 @@
     {
       "title": "Consolis",
       "end": "01/2018",
+      "start": "11/2017",
       "project": "Réalisation d'interfaces graphiques affichant des données de capteurs connectés",
       "url": "https://www.hec.edu/",
       "role": "Expert et tech lead frontend",
@@ -50,6 +88,7 @@
     {
       "title": "Social and stories",
       "end": "11/2017",
+      "start": "07/2017",
       "project": "Réalisation d'un outil de remonté d'information des réseaux sociaux",
       "role": "Expert et tech lead frontend et backend",
       "technologies": ["Angular", "AWS lambda", "D3.js"]
@@ -57,6 +96,7 @@
     {
       "title": "Dior",
       "end": "07/2017",
+      "start": "02/2017",
       "project": "Refonte du store locator",
       "url": "https://www.dior.com/store/",
       "role": "Expert et tech lead frontend et backend",
@@ -65,6 +105,7 @@
     {
       "title": "Fondation de France",
       "end": "02/2017",
+      "start": "10/2016",
       "project": "Réalisation de l'extranet de gestion du Patrimoine",
       "role": "Expert et tech lead frontend et backend",
       "technologies": ["offline", "Angular JS", "Bootstrap", "Express", "CouchDB"]
@@ -72,6 +113,7 @@
     {
       "title": "Engie Home Services",
       "end": "10/2016",
+      "start": "07/2016",
       "project": "Refonte du site Engie Home Services",
       "url": "https://www.engie-homeservices.fr/",
       "role": "Expert et tech lead frontend et backend",
@@ -80,6 +122,7 @@
     {
       "title": "Hutchinson",
       "end": "07/2016",
+      "start": "03/2016",
       "project": "Refonte du site Hutchinson",
       "url": "https://www.hutchinson.com/fr",
       "role": "Expert et tech lead frontend et backend",
@@ -88,6 +131,7 @@
     {
       "title": "Hôtel B&B",
       "end": "03/2016",
+      "start": "02/2016",
       "project": "Réalisation d'un POC",
       "role": "Expert frontend",
       "technologies": ["Angular JS", "Drupal 7"]
@@ -95,6 +139,7 @@
     {
       "title": "Terres Inovia",
       "end": "02/2016",
+      "start": "01/2016",
       "project": "Maintenance d'une application mobile",
       "role": "Expert frontend",
       "technologies": ["Angular JS", "Cordova"]
@@ -102,6 +147,7 @@
     {
       "title": "Bergerat Monnoyeur",
       "end": "01/2016",
+      "start": "08/2015",
       "project": "Réalisation du site Match Machines",
       "role": "Chef de projet technique",
       "technologies": ["jQuery", "Magento", "Solr", "Percona server", "Redis", "Varnish"]
@@ -109,6 +155,7 @@
     {
       "title": "American Hospital of paris",
       "end": "08/2015",
+      "start": "07/2015",
       "project": "Réalisation d'un questionnaire en ligne",
       "role": "Chef de projet technique",
       "technologies": ["jQuery", "Drupal 7", "MySQL", "Memcache"]
@@ -116,6 +163,7 @@
     {
       "title": "Renault",
       "end": "07/2015",
+      "start": "06/2015",
       "project": "Réalisation de la partie B2B du site Motrio",
       "url": "https://www.motrio.fr/b2b-presentation-motrio/",
       "role": "Expert frontend",
@@ -124,6 +172,7 @@
     {
       "title": "Gobelins",
       "end": "06/2015",
+      "start": "05/2015",
       "project": "Refonte du site des gobelins",
       "url": "https://www.gobelins.fr/",
       "role": "Expert frontend",
@@ -132,6 +181,7 @@
     {
       "title": "Service du Premier Ministre",
       "end": "05/2015",
+      "start": "02/2015",
       "project": "Refonte du site du RGAA",
       "url": "http://references.modernisation.gouv.fr/",
       "role": "Chef de projet technique",
@@ -140,6 +190,7 @@
     {
       "title": "Croix-Rouge Française",
       "end": "02/2015",
+      "start": "07/2014",
       "project": "Refonte du site de don de la CRF",
       "role": "Chef de projet technique",
       "technologies": ["jQuery", "Magento", "Varnish", "Redis", "MySQL"]
@@ -147,6 +198,7 @@
     {
       "title": "Kering",
       "end": "07/2014",
+      "start": "04/2014",
       "project": "Réalisation du site Kering Foundation",
       "role": "Chef de projet",
       "technologies": ["jQuery", "Drupal 7", "Varnish", "Memcache", "MySQL"]
@@ -154,6 +206,7 @@
     {
       "title": "Louvre Hotels Group",
       "end": "04/2014",
+      "start": "01/2014",
       "project": "Réalisation du site du groupe Louvre Hotels",
       "url": "https://www.louvrehotels.com/",
       "role": "Chef de projet technique",
@@ -162,6 +215,7 @@
     {
       "title": "Louvre Hotels Group",
       "end": "01/2014",
+      "start": "11/2013",
       "project": "Réalisation du site Hotel For You",
       "url": "http://www.hotelforyou.com/",
       "role": "Chef de projet technique",
@@ -170,6 +224,7 @@
     {
       "title": "Darjeeling",
       "end": "11/2013",
+      "start": "08/2013",
       "project": "Refonte graphique du site Darjeeling et projet de tablettes en magasin",
       "role": "Chef de projet",
       "technologies": ["Magento", "Varnish", "Redis", "Percona server"]
@@ -177,20 +232,23 @@
     {
       "title": "Passionata",
       "end": "08/2013",
+      "start": "04/2013",
       "project": "Refonte du site Passionata",
       "role": "Chef de projet",
       "technologies": ["Magento", "Varnish", "Redis", "Percona server"]
     },
     {
       "title": "Louvre Hotels Group",
-      "end": "03/2013",
-      "project": "Refonte dus sites Campanile, Kyriad et Première classe",
+      "end": "04/2013",
+      "start": "01/2013",
+      "project": "Refonte des sites Campanile, Kyriad et Première classe",
       "role": "Chef de projet technique",
       "technologies": ["Drupal 7", "MySQL"]
     },
     {
       "title": "Cityvision",
-      "end": "03/2012",
+      "end": "01/2012",
+      "start": "10/2011",
       "project": "Réalisation du site Paris City Vision",
       "role": "Chef de projet technique",
       "technologies": ["Magento", "Varnish", "MySQL"]
@@ -198,6 +256,7 @@
     {
       "title": "Un Jour Ailleurs",
       "end": "10/2011",
+      "start": "04/2011",
       "project": "Réalisation du site Un Jour Ailleurs",
       "role": "Chef de projet",
       "technologies": ["Magento", "Varnish", "MySQL"]
@@ -205,6 +264,7 @@
     {
       "title": "Darjeeling",
       "end": "04/2011",
+      "start": "10/2010",
       "project": "Réalisation du site Darjeeling",
       "role": "Chef de projet",
       "technologies": ["Magento", "Varnish", "MySQL"]
