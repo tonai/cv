@@ -5,7 +5,7 @@
       "title": "React Modular Front Kit",
       "end": "07/2023",
       "start": "06/2023",
-      "project": "Développement d'un librairie de comopsant réutilisable",
+      "project": "Développement d'un librairie de composants réutilisables",
       "role": "Expert et tech lead frontend",
       "technologies": ["React"]
     },
@@ -89,7 +89,6 @@
       "end": "01/2018",
       "start": "11/2017",
       "project": "Réalisation d'interfaces graphiques affichant des données de capteurs connectés",
-      "url": "https://www.hec.edu/",
       "role": "Expert et tech lead frontend",
       "technologies": ["React", "Redux"]
     },
